@@ -12,6 +12,8 @@
 
 >git push [to sent changes from local repository to remote repository]
 
+--terminal commands of git::👇🏻
+
 >git config --list [to list configuration]
 
 >git config --global user.name "username" [to add username]
@@ -23,5 +25,5 @@ biriyani recepe:
 
             rice 2kg
             chicken 1kg
-            
+
 
