@@ -20,6 +20,8 @@
 
 >git config --global user.email "useremail" [to add usermail]
 
+>git status [shows which all files are not commited]
+
 
 biriyani recepe:
 
