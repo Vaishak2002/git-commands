@@ -18,3 +18,10 @@
 
 >git config --global user.email "useremail" [to add usermail]
 
+
+biriyani recepe:
+
+            rice 2kg
+            chicken 1kg
+            
+
