@@ -25,5 +25,6 @@ biriyani recepe:
 
             rice 2kg
             chicken 1kg
+            water 2 litres
 
 
